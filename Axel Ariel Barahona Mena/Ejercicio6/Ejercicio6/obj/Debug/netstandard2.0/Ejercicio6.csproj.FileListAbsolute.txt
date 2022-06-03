@@ -1,0 +1,15 @@
+C:\Users\Jonat\source\repos\Ejercicio6\Ejercicio6\bin\Debug\netstandard2.0\Ejercicio6.deps.json
+C:\Users\Jonat\source\repos\Ejercicio6\Ejercicio6\bin\Debug\netstandard2.0\Ejercicio6.dll
+C:\Users\Jonat\source\repos\Ejercicio6\Ejercicio6\bin\Debug\netstandard2.0\ref\Ejercicio6.dll
+C:\Users\Jonat\source\repos\Ejercicio6\Ejercicio6\bin\Debug\netstandard2.0\Ejercicio6.pdb
+C:\Users\Jonat\source\repos\Ejercicio6\Ejercicio6\obj\Debug\netstandard2.0\Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\Jonat\source\repos\Ejercicio6\Ejercicio6\obj\Debug\netstandard2.0\Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonat\source\repos\Ejercicio6\Ejercicio6\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jonat\source\repos\Ejercicio6\Ejercicio6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jonat\source\repos\Ejercicio6\Ejercicio6\obj\Debug\netstandard2.0\Ejercicio6.AssemblyInfoInputs.cache
+C:\Users\Jonat\source\repos\Ejercicio6\Ejercicio6\obj\Debug\netstandard2.0\Ejercicio6.AssemblyInfo.cs
+C:\Users\Jonat\source\repos\Ejercicio6\Ejercicio6\obj\Debug\netstandard2.0\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\source\repos\Ejercicio6\Ejercicio6\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jonat\source\repos\Ejercicio6\Ejercicio6\obj\Debug\netstandard2.0\Ejercicio6.dll
+C:\Users\Jonat\source\repos\Ejercicio6\Ejercicio6\obj\Debug\netstandard2.0\ref\Ejercicio6.dll
+C:\Users\Jonat\source\repos\Ejercicio6\Ejercicio6\obj\Debug\netstandard2.0\Ejercicio6.pdb
